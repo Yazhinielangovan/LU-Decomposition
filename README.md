@@ -1,3 +1,6 @@
+## EXPERIMENT NO.: 05
+## DATE : 30.03.2024
+
 # LU Decomposition 
 
 ## AIM:
